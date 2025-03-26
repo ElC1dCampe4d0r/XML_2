@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Nombre: Sergio
+Curso: DAW1
+Fecha: 25/03/2025
+Ejercicio3
+ -->
+<receta>
+    <nombre>Sopa de cebolla</nombre>
+    <comensales>4</comensales>
+    <ingredientes>
+        <ingrediente>
+            <nombre>cebollas</nombre>
+            <cantidad>1</cantidad>
+            <unidad>kg</unidad>
+        </ingrediente>
+        <ingrediente>
+            <nombre>caldo de carne</nombre>
+            <cantidad>2</cantidad>
+            <unidad>litros</unidad>
+        </ingrediente>
+        <!-- Resto de ingredientes similares -->
+    </ingredientes>
+    <proceso>
+        <paso orden="1">Pelar y partir las cebollas en rodajas finas.</paso>
+        <paso orden="2">Rehogarlas con la mantequilla, sal y pimienta...</paso>
+        <!-- Pasos restantes -->
+    </proceso>
+</receta>

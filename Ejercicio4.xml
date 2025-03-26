@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Nombre: Sergio
+Curso: DAW1
+Fecha: 25/03/2025
+Ejercicio4
+ -->
+<modulo>
+    <nombre>Lenguajes de Marcas</nombre>
+    <horas_semanales>4</horas_semanales>
+    <caracter>obligatorio</caracter>
+    <fecha_inicio>2023-09-15</fecha_inicio>
+    <fecha_fin>2024-06-22</fecha_fin>
+    <alumnos>
+        <alumno>
+            <dni>51623487V</dni>
+            <nombre_completo>Ana Fernández Gutiérrez</nombre_completo>
+            <telefono>666544566</telefono>
+            <email>anafernandez@gmail.com</email>
+            <direccion>C/ Amatista, 14, 28905 Getafe (Madrid)</direccion>
+        </alumno>
+        <alumno>
+            <dni>52369874B</dni>
+            <nombre_completo>Carlos López Sánchez</nombre_completo>
+            <telefono>666455477</telefono>
+            <email>carloslopez@gmail.com</email>
+            <direccion>C/ Ópalo, 15, 28905 Getafe (Madrid)</direccion>
+            <nota>apto</nota>
+            <faltas_asistencia>0</faltas_asistencia>
+        </alumno>
+    </alumnos>
+</modulo>

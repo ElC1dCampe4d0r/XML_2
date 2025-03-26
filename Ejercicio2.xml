@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Nombre: Sergio
+Curso: DAW1
+Fecha: 25/03/2025
+Ejercicio2
+ -->
+<equipos>
+    <equipo>
+        <nombre>Real Madrid</nombre>
+        <ciudad>Madrid</ciudad>
+        <entrenador />
+        <jugadores>
+            <jugador posicion="delantero">
+                <nombre>Vinicius Junior</nombre>
+                <nacionalidad>Brasileño</nacionalidad>
+            </jugador>
+            <jugador posicion="medio">
+                <nombre>Luka Modrić</nombre>
+                <nacionalidad>Croata</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+    <equipo>
+        <nombre>FC Barcelona</nombre>
+        <ciudad>Barcelona</ciudad>
+        <entrenador />
+        <jugadores>
+            <jugador posicion="delantero">
+                <nombre>Robert Lewandowski</nombre>
+                <nacionalidad>Polaco</nacionalidad>
+            </jugador>
+            <jugador posicion="defensa">
+                <nombre>Ronald Araújo</nombre>
+                <nacionalidad>Uruguayo</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+</equipos>
